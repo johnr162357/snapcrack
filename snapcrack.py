@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/serynity244827/bin/env python
 
 from pysnap import *
 import sys
